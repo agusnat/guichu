@@ -117,11 +117,6 @@ html {
 }
 /* Fonts */
 
-.youtube-video {
-    width: 100%;
-    min-height: 350px;
-}
-
 /* About me - Start */
 
 #curriculum, #contacto {
@@ -159,11 +154,10 @@ html {
     padding: 45px 20px 15px;
 }
 
-.album-img {
-    width: 200px;
-    min-height: auto;
-    border-radius: 5%;
-    margin: 15px 0;
+.youtube-video {
+    width: 300px;
+    height: 200px;
+    margin-bottom: 25px;
 }
 
 .socialnetworks {
@@ -492,11 +486,6 @@ footer .row {
 
     .section-content {
         width: 50%;
-    }
-
-    .youtube-video {
-        width: 350px;
-        min-height: 250px;
     }
 
     input, button {
