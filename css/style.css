@@ -300,6 +300,11 @@ button[type="submit"] {
     color: black;
 }
 
+.ty {
+    display: block;
+    float: left;
+    margin-top: 5px;
+}
 /* Contacto */
 
 /* Footer */
