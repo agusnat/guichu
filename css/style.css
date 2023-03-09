@@ -301,9 +301,12 @@ button[type="submit"] {
 }
 
 .ty {
-    display: block;
-    float: left;
-    margin-top: 5px;
+    background-color: white;
+    position: absolute;
+    width: 100%;
+    z-index: 99;
+    text-align: left;
+    top: 0;
 }
 /* Contacto */
 
@@ -500,8 +503,14 @@ footer .row {
         margin: 0;
         float: left;
     }
+
     input[type="email"] {
         width: 50%;
+    }
+
+    .bepart {
+        display: block;
+        text-align: left;
     }
 
     button[type="submit"] {
