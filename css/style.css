@@ -119,10 +119,6 @@ html {
 
 /* About me - Start */
 
-#curriculum, #contacto {
-    display: none;
-}
-
 #about-me {
     background-color: #01091c;
 }
