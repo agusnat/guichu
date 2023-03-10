@@ -329,6 +329,11 @@ footer .row {
     background-image: url(../img/youtube.svg);
 }
 
+.social-icon.spotify {
+    background-image: url(../img/spotify.svg);
+}
+
+
 .social-icon.tiktok {
     background-image: url(../img/tiktok.svg);
 }
@@ -495,6 +500,8 @@ footer .row {
 
     .bepart {
         display: block;
+        margin: 0;
+        padding: 0;
         text-align: left;
     }
 
